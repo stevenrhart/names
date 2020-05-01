@@ -81,6 +81,9 @@ target/
 # Bokeh html file outputs
 .html
 
+# Data exports
+.csv
+
 # IPython
 profile_default/
 ipython_config.py
