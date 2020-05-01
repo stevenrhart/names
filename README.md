@@ -13,4 +13,4 @@ The data is split up into one file per year spanning 1880-2018 and includes the 
 
 Enjoy!
 
-[Check out the notebook](names.ipynb)
+[Check out the notebook](Names.ipynb)
